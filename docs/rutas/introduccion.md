@@ -12,9 +12,9 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 ## Lecciones
 
 1. [Introducción a Kotlin](/lecciones/introduccion-a-kotlin)
-1. Literales básicos: Números, cadenas de texto y caractéres
+2. Literales básicos: Números, cadenas de texto y caractéres
 
-- Lista de reproducción en YouTube
+- [Lista de reproducción en YouTube]
 
 ### Descargas para lectura offline
 

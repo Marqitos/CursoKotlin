@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: playground
 title: Introducción a Kotlin
 description: Teoría - Introducción a Kotlin
 ---
@@ -12,7 +12,7 @@ Kotlin es un lenguaje de programación moderno y muy eficaz desarrollado por Jet
 
 Kotlin se utiliza ampliamente en todo el mundo y su popularidad entre los desarrolladores crece constantemente. Muchos desarrolladores que utilizan Kotlin señalan que hace que su trabajo sea más rápido y productivo 😀
 
-// Logotipo de Kotlin
+![Logo Kotlin](/img/KotlinMultilang.png)
 
 La sintaxis básica de Kotlin es similar a la de Java, pero tiene numerosas ventajas. Una de estas características son las funciones de extensión, que ofrecen a los desarrolladores la capacidad de ampliar la funcionalidad de las clases sin tener que utilizar la herencia. Además, Kotlin ofrece inferencia de tipos, lo que permite al compilador determinar el tipo de variable en función del contexto, lo que simplifica la codificación y reduce la cantidad de errores en programas complejos.
 
@@ -30,7 +30,7 @@ En este momento, Kotlin se considera un lenguaje de propósito general para much
 
 ## Una función de Kotlin de muestra
 
-A continuación, se muestra una muestra de un programa simple en el lenguaje de programación Kotlin que imprime `Hello, Kotlin!`.
+A continuación, se muestra una muestra de un programa simple en el lenguaje de programación Kotlin que imprime `¡Hola, Kotlin!`.
 
 ```kotlin
 fun main() {
@@ -54,7 +54,7 @@ Por ejemplo, los desarrolladores que están familiarizados con Java pueden apren
 - Nativo: Kotlin/Native es una tecnología para compilar código Kotlin en binarios nativos que se pueden ejecutar en cualquier sistema operativo, como Windows, Linux, iOS y macOS.
 - Multiplataforma: con Kotlin Multiplatform, puede crear aplicaciones móviles multiplataforma que comparten código entre proyectos Android e iOS para implementar redes, almacenamiento de datos y validación de datos, análisis, cálculos y otra lógica de aplicación.
 
-// Imagen Lenguaje de programación Kotlin para JVM Android Browser Native
+![Destinos de uso de Kotlin](/img/KotlinMultilang.png)
 
 Entre todas estas oportunidades, los programadores modernos prefieren el desarrollo móvil y del lado del servidor, pero otras áreas también están ganando popularidad.
 
@@ -64,13 +64,12 @@ Kotlin está diseñado como un lenguaje pragmático, lo que significa que su pro
 
 También es importante que Kotlin admita múltiples paradigmas de programación, como programación imperativa, programación orientada a objetos, programación genérica, programación funcional y más. Kotlin también ofrece herramientas como funciones anónimas y funciones de orden superior, que permiten a los desarrolladores crear fácilmente abstracciones sobre el código existente.
 
-Por último, pero no menos importante, Kotlin es un lenguaje compatible con herramientas, lo que significa que todos los tipos populares de herramientas de desarrollo, como IntelliJ IDEA, Eclipse y Android Studio, son compatibles con él.
+Por último, pero no menos importante, Kotlin es un lenguaje compatible con herramientas de desarrollo, lo que significa que los entornos de desarrollo más populares; como IntelliJ IDEA, Eclipse y Android Studio; son compatibles con él.
 
 ## Conclusión
 
 ¡Felicitaciones! Obtuviste una idea de Kotlin y exploraste su sintaxis concisa, origen, diversas aplicaciones y características únicas. Ahora te estás uniendo a una comunidad global de creadores que dan forma al futuro de la tecnología.
 
-Aplica tu nuevo conocimiento para completar este paso inicial de tu emocionante viaje. ¡Practiquemos!
+Aplica tu nuevo conocimiento para completar este paso inicial de tu emocionante viaje.
 
-[¡ Práctica !](https://marcospor.to/ejercicios/introduccion-a-kotlin)
-
+[¡Practiquemos!](https://marcospor.to/ejercicios/introduccion-a-kotlin)

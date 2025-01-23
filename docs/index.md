@@ -5,6 +5,7 @@ layout: default
 # ¿Que es Kotlin?
 
 Kotlin es un lenguaje de programación moderno a la vez que maduro, diseñado para hacer más felices a los desarrolladores.
+
 Es conciso, seguro, interoperable con Java y otros lenguajes, y ofrece muchas maneras de reutilizar código entre múltiples plataformas para una programación productiva.
 
 ## Como aprender a programar en Kotlin
@@ -23,5 +24,5 @@ Pero ten en mente siempre una cosa, la mejor manera de aprender un lenguaje, es 
 
 ## Referencias
 
--[Curso original en Inglés, de JetBrains Academy](https://www.jetbrains.com/academy/)
--[Documentación oficial de Kotlin](https://kotlinlang.org/docs/home.html)
+- [Curso original en Inglés, de JetBrains Academy](https://www.jetbrains.com/academy/)
+- [Documentación oficial de Kotlin](https://kotlinlang.org/docs/home.html)

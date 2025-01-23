@@ -7,5 +7,5 @@ description: Aprende Kotlin desde 0, a tu ritmo y a tu manera
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
 relative_links:
-  enabled:     true
+  enabled: true
   collections: false
