@@ -1,9 +1,11 @@
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 plugins:
-- jekyll-remote-theme
-
+  - jekyll-relative-links
 lang: es-ES
 title: Curso de Kotlin desde 0
 description: Aprende Kotlin desde 0, a tu ritmo y a tu manera
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
+relative_links:
+  enabled:     true
+  collections: false
