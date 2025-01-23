@@ -19,9 +19,6 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -30,6 +27,7 @@
       <footer class="site-footer">
         {% if site.github.is_project_page %}
         <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">Curso de Kotlin desde 0</a> es un proyecto de <a href="{{ site.github.owner_url }}">Marcos Porto</a>.</span>
+        <br>
         {% endif %}
         <span class="site-footer-credits">Está página ha sido generada mediante <a href="https://pages.github.com">GitHub Pages</a>.</span>
       </footer>
