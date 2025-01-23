@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ruta de estudio - Introducción a Kotlin
+description: Índice de la ruta de estudio - Introducción a Kotlin
+---
+
 # Ruta: Introducción a Kotlin
 
 ¡Comienza tu viaje con la programación con Kotlin!
@@ -5,9 +11,12 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 
 ## Lecciones
 
-1. Introducción a Kotlin
+1. [Introducción a Kotlin](/lecciones/introduccion-a-kotlin)
 1. Literales básicos: Números, cadenas de texto y caractéres
 
 - Lista de reproducción en YouTube
-- Descargas para lectura offline
- 
+
+### Descargas para lectura offline
+
+- PDF
+- ePub
