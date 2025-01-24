@@ -8,13 +8,13 @@ description: Teoría - Introducción a Kotlin
 
 ## ¿Qué es Kotlin?
 
-Kotlin es un lenguaje de programación moderno y muy eficaz desarrollado por JetBrains. Tiene una sintaxis muy clara y concisa, lo que hace que su código sea fácil de leer.
+Kotlin es un lenguaje de programación moderno y muy eficaz desarrollado por [JetBrains](https://jetbrains.com). Tiene una [sintaxis](/glosario#sintaxis) muy clara y concisa, lo que hace que su código sea fácil de leer.
 
 Kotlin se utiliza ampliamente en todo el mundo y su popularidad entre los desarrolladores crece constantemente. Muchos desarrolladores que utilizan Kotlin señalan que hace que su trabajo sea más rápido y productivo 😀
 
 ![Logo Kotlin](/img/logoKotlin.png)
 
-La sintaxis básica de Kotlin es similar a la de Java, pero tiene numerosas ventajas. Una de estas características son las funciones de extensión, que ofrecen a los desarrolladores la capacidad de ampliar la funcionalidad de las clases sin tener que utilizar la herencia. Además, Kotlin ofrece inferencia de tipos, lo que permite al compilador determinar el tipo de variable en función del contexto, lo que simplifica la codificación y reduce la cantidad de errores en programas complejos.
+La sintaxis básica de Kotlin es similar a la de Java, pero tiene numerosas ventajas. Una de estas características son las funciones de extensión, que ofrecen a los desarrolladores la capacidad de ampliar la funcionalidad de las clases sin tener que utilizar la herencia. Además, Kotlin ofrece [inferencia de tipos](/glosario#inferencia-de-tipos), lo que permite al compilador determinar el tipo de variable en función del contexto, lo que simplifica la codificación y reduce la cantidad de errores en programas complejos.
 
 ## Breve historia de Kotlin
 
@@ -24,9 +24,9 @@ En 2016, se lanzó la primera versión estable oficial (Kotlin v1.0). La comunid
 
 En la conferencia Google I/O 2017, Google anunció un soporte de primera clase para Kotlin en Android. Chet Haase, uno de los responsables de Android, dijo:
 
-> Entendemos que no todo el mundo está usando Kotlin en este momento, pero creemos que llegará ese momento
+> Entendemos que no todo el mundo está usando Kotlin ahora mismo, pero creemos que llegará ese momento
 
-En este momento, Kotlin se considera un lenguaje de propósito general para muchas plataformas, no solo para Android. El lenguaje se actualiza con varias versiones al año. La última versión se puede encontrar en el sitio oficial.
+En este momento, Kotlin se considera un lenguaje de propósito general para muchas plataformas, no solo para Android. El lenguaje se actualiza con varias versiones al año. La última versión se puede encontrar en el [sitio oficial](https://kotlinlang.org).
 
 ## Una función de Kotlin de muestra
 
@@ -46,13 +46,13 @@ Kotlin se puede utilizar en una variedad de plataformas de aplicaciones, como JV
 
 Por ejemplo, los desarrolladores que están familiarizados con Java pueden aprender fácilmente a usar Kotlin en dispositivos Android. Lo mismo es cierto para los desarrolladores que están familiarizados con JavaScript y desean desarrollar aplicaciones para la web utilizando Kotlin.
 
-- JVM: Kotlin es completamente interoperable con Java, lo que significa que Kotlin funciona muy bien con todo el código fuente y las bibliotecas de Java existentes. También permite a las empresas realizar una migración gradual de Java a Kotlin porque el código Java también puede acceder al código Kotlin. Al mismo tiempo, los desarrolladores pueden usar Kotlin como el único lenguaje del projecto, para ser ejecutado en cualquier dispositivo con soporte JVM.
-- Android: Utilizando la sintaxis de Kotlin, puede crear aplicaciones móviles para Android, el sistema operativo más utilizado en el mundo.
-- JS: Kotlin también es compatible con JavaScript, lo que le permite desarrollar aplicaciones web del lado del cliente y ejecutarlas en un navegador.
-- Nativo: Kotlin/Native es una tecnología para compilar código Kotlin en ejecutables nativos que se pueden ejecutar en cualquier sistema operativo, como Windows, Linux, iOS y macOS.
-- Multiplataforma: con Kotlin Multiplatform, puede crear aplicaciones móviles multiplataforma que comparten código entre proyectos Android e iOS para implementar redes, almacenamiento de datos y validación de datos, análisis, cálculos y otra lógica de aplicación.
-
 ![Destinos de uso de Kotlin](/img/KotlinMultilang.png)
+
+- [JVM](https://docs.oracle.com/javase/specs/jvms/se8/html): Kotlin es completamente interoperable con Java, lo que significa que Kotlin funciona muy bien con todo el [código fuente](/glosario#codigo-fuente) y las bibliotecas de Java existentes. También permite a las empresas realizar una migración gradual de Java a Kotlin porque el código Java también puede acceder al código Kotlin. Al mismo tiempo, los desarrolladores pueden usar Kotlin como el único lenguaje del projecto, para ser ejecutado en cualquier dispositivo con soporte JVM.
+- [Android](https://www.android.com): Utilizando la sintaxis de Kotlin, puede crear aplicaciones móviles para Android, el sistema operativo más utilizado en el mundo.
+- JS: Kotlin también es compatible con JavaScript, lo que le permite desarrollar aplicaciones web del lado del cliente y ejecutarlas en un navegador.
+- [Nativo](https://kotlinlang.org/docs/native-overview.html): Kotlin/Native es una tecnología para compilar código Kotlin en ejecutables nativos que se pueden ejecutar en cualquier sistema operativo, como Windows, Linux, iOS y macOS.
+- [Multiplataforma](https://kotlinlang.org/docs/multiplatform.html#kotlin-multiplatform-use-cases): Con Kotlin Multiplatform, puede crear aplicaciones móviles multiplataforma que comparten código entre proyectos Android e iOS para implementar redes, almacenamiento de datos y validación de datos, análisis, cálculos y otra lógica de aplicación.
 
 Entre todas estas oportunidades, los programadores modernos prefieren el desarrollo móvil y del lado del servidor, pero otras áreas también están ganando popularidad.
 
@@ -70,6 +70,6 @@ Por último, pero no menos importante, Kotlin es un lenguaje compatible con herr
 
 Ya tienes una idea de lo que es Kotlin, origen, diversas aplicaciones y características únicas. Ahora te estás uniendo a una comunidad global de creadores que dan forma al futuro de la tecnología.
 
-Aplica tu nuevo conocimiento para completar este paso inicial de tu emocionante viaje.
+Usa tus nuevos conocimientos para completar este paso inicial de tu emocionante viaje.
 
 [¡Practiquemos!](https://marcospor.to/ejercicios/introduccion-a-kotlin)

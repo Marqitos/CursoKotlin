@@ -9,12 +9,13 @@ description: Índice de la ruta de estudio - Introducción a Kotlin
 ¡Comienza tu viaje con la programación con Kotlin!
 Descubre cómo trabajar con variables, utilizar controles de flujo y comprender los conceptos esenciales de la programación orientada a objetos.
 
+- [Lista de reproducción en YouTube]
+- [Ruta de estudio en PayHip]
+
 ## Lecciones
 
 1. [Introducción a Kotlin](/lecciones/introduccion-a-kotlin)
 2. Literales básicos: Números, cadenas de texto y caractéres
-
-- [Lista de reproducción en YouTube]
 
 ### Descargas para lectura offline
 

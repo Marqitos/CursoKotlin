@@ -22,7 +22,7 @@ Aquí te ofrecemos unas guías de estudio, para hacer más ameno su aprendizaje.
 
 Pero ten en mente siempre una cosa, la mejor manera de aprender un lenguaje, es practicando.
 
-Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprendido, y enlaces a [Retos de programación](https://retosdeprogramacion.com/).
+Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprendido, y enlaces a [Retos de programación](https://retosdeprogramacion.com)[^1].
 
 ## Rutas de estudio recomendadas
 
@@ -37,3 +37,5 @@ Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprend
 
 - [Curso original en Inglés, de JetBrains Academy](https://www.jetbrains.com/academy/)
 - [Documentación oficial de Kotlin](https://kotlinlang.org/docs/home.html)
+
+[^1]:[Retos de programación](https://retosdeprogramacion.com) es un proyecto de [Brais Moure](https://mouredev.com/brais-moure/), este proyecto no tiene colaboración con el suyo, pero aprecia las aportaciones de Brais Moure a la comunidad.
