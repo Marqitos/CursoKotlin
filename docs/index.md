@@ -4,7 +4,7 @@ title: Curso de Kotlin desde 0 en español
 description: Aprende Kotlin desde 0, a tu ritmo y a tu manera
 ---
 
-# Curso de Kotlin desde 0 en español
+# Curso de Kotlin en español
 
 Si quieres aprender Kotlin, aquí tienes un curso en español.
 

@@ -12,7 +12,7 @@ Kotlin es un lenguaje de programación moderno y muy eficaz desarrollado por Jet
 
 Kotlin se utiliza ampliamente en todo el mundo y su popularidad entre los desarrolladores crece constantemente. Muchos desarrolladores que utilizan Kotlin señalan que hace que su trabajo sea más rápido y productivo 😀
 
-![Logo Kotlin](/img/KotlinMultilang.png)
+![Logo Kotlin](/img/logoKotlin.png)
 
 La sintaxis básica de Kotlin es similar a la de Java, pero tiene numerosas ventajas. Una de estas características son las funciones de extensión, que ofrecen a los desarrolladores la capacidad de ampliar la funcionalidad de las clases sin tener que utilizar la herencia. Además, Kotlin ofrece inferencia de tipos, lo que permite al compilador determinar el tipo de variable en función del contexto, lo que simplifica la codificación y reduce la cantidad de errores en programas complejos.
 
