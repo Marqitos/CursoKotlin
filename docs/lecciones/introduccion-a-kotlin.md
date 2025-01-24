@@ -48,7 +48,7 @@ Por ejemplo, los desarrolladores que están familiarizados con Java pueden apren
 
 ![Destinos de uso de Kotlin](/img/KotlinMultilang.png)
 
-- [JVM](https://docs.oracle.com/javase/specs/jvms/se8/html): Kotlin es completamente interoperable con Java, lo que significa que Kotlin funciona muy bien con todo el [código fuente](/glosario#codigo-fuente) y las bibliotecas de Java existentes. También permite a las empresas realizar una migración gradual de Java a Kotlin porque el código Java también puede acceder al código Kotlin. Al mismo tiempo, los desarrolladores pueden usar Kotlin como el único lenguaje del projecto, para ser ejecutado en cualquier dispositivo con soporte JVM.
+- [JVM](https://docs.oracle.com/javase/specs/jvms/se8/html): Kotlin es completamente interoperable con Java, lo que significa que Kotlin funciona muy bien con todo el [código fuente](/glosario#codigo-fuente) y las bibliotecas de Java existentes. También permite a las empresas realizar una migración gradual de Java a Kotlin porque el código Java también puede acceder al código Kotlin. Al mismo tiempo, los desarrolladores pueden usar Kotlin como el único lenguaje del proyecto, para ser ejecutado en cualquier dispositivo con soporte JVM.
 - [Android](https://www.android.com): Utilizando la sintaxis de Kotlin, puede crear aplicaciones móviles para Android, el sistema operativo más utilizado en el mundo.
 - JS: Kotlin también es compatible con JavaScript, lo que le permite desarrollar aplicaciones web del lado del cliente y ejecutarlas en un navegador.
 - [Nativo](https://kotlinlang.org/docs/native-overview.html): Kotlin/Native es una tecnología para compilar código Kotlin en ejecutables nativos que se pueden ejecutar en cualquier sistema operativo, como Windows, Linux, iOS y macOS.
