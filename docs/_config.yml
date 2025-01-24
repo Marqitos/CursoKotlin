@@ -5,7 +5,6 @@ lang: es-ES
 title: Curso de Kotlin desde 0 en español
 description: Aprende Kotlin desde 0, a tu ritmo y a tu manera
 show_downloads: false
-google_analytics: G-JDPQP86GGF
 relative_links:
   enabled: true
   collections: false
