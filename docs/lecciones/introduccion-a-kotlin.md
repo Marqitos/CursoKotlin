@@ -20,7 +20,7 @@ La sintaxis básica de Kotlin es similar a la de Java, pero tiene numerosas vent
 
 En julio de 2011, JetBrains presentó el Proyecto Kotlin, un nuevo lenguaje para la plataforma Java, que había estado en desarrollo durante un año. El nombre proviene de la isla Kotlin cerca de San Petersburgo, Rusia. El objetivo principal de este proyecto era proporcionar una alternativa más segura y concisa a Java en todos los contextos en los que Java se utiliza actualmente.
 
-En 2016, se lanzó la primera versión estable oficial (Kotlin v1.0). La comunidad de desarrolladores ya estaba interesada en utilizar este lenguaje, especialmente en Android.
+En 2016, se lanzó la primera versión estable oficial (Kotlin v1.0). La comunidad de desarrolladores ya estaba interesada en utilizar este lenguaje, especialmente en Android. Este curso está basado en la versión v2.1
 
 En la conferencia Google I/O 2017, Google anunció un soporte de primera clase para Kotlin en Android. Chet Haase, uno de los responsables de Android, dijo:
 
@@ -72,4 +72,4 @@ Ya tienes una idea de lo que es Kotlin, origen, diversas aplicaciones y caracter
 
 Usa tus nuevos conocimientos para completar este paso inicial de tu emocionante viaje.
 
-[¡Practiquemos!](https://marcospor.to/ejercicios/introduccion-a-kotlin)
+[¡Practiquemos!](/lecciones/ejercicio-01)
