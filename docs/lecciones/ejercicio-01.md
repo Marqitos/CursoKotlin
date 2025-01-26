@@ -6,7 +6,7 @@ description: Ejercicio - ¡Hola mundo!
 
 # Ejercicio: ¡Hola mundo!
 
-Aquí tienes el típico programa por el que empiezas a practicar en cualquier lenguaje de programación, y pulsa ▶️  para ejecutarlo.
+Aquí tienes el típico programa por el que empiezas a practicar en cualquier lenguaje de programación, pulsa ▶️  para ejecutarlo.
 
 ```kotlin
 fun main() {
@@ -20,8 +20,8 @@ Por ahora, no necesitas entender cómo funciona este código, ¡solo disfrútalo
 
 Pero si tienes curiosidad.
 
-La función main, es el punto de entrada de la aplicación.
+La función `main`, es el punto de entrada de la aplicación.
 
-Y dentro solo hay una llamada a una función, que escribe `¡Hola mundo!` en la salida por consola.
+Y dentro solo hay una llamada a una función `println`, que escribe `¡Hola mundo!` en la salida por consola.
 
-[Continuar aprendiendo](/)
+[Continuar aprendiendo](/#ruta)

@@ -20,13 +20,13 @@ La sintaxis básica de Kotlin es similar a la de Java, pero tiene numerosas vent
 
 En julio de 2011, JetBrains presentó el Proyecto Kotlin, un nuevo lenguaje para la plataforma Java, que había estado en desarrollo durante un año. El nombre proviene de la isla Kotlin cerca de San Petersburgo, Rusia. El objetivo principal de este proyecto era proporcionar una alternativa más segura y concisa a Java en todos los contextos en los que Java se utiliza actualmente.
 
-En 2016, se lanzó la primera versión estable oficial (Kotlin v1.0). La comunidad de desarrolladores ya estaba interesada en utilizar este lenguaje, especialmente en Android. Este curso está basado en la versión v2.1
+En 2016, se lanzó la primera versión estable oficial (Kotlin v1.0). La comunidad de desarrolladores ya estaba interesada en utilizar este lenguaje, especialmente en Android.
 
-En la conferencia Google I/O 2017, Google anunció un soporte de primera clase para Kotlin en Android. Chet Haase, uno de los responsables de Android, dijo:
+En la conferencia Google I/O 2017, Google anunció un soporte de primera clase para Kotlin en Android. Chet Haase, uno de los mayores responsables de Android, dijo:
 
 > Entendemos que no todo el mundo está usando Kotlin ahora mismo, pero creemos que llegará ese momento
 
-En este momento, Kotlin se considera un lenguaje de propósito general para muchas plataformas, no solo para Android. El lenguaje se actualiza con varias versiones al año. La última versión se puede encontrar en el [sitio oficial](https://kotlinlang.org).
+En este momento, Kotlin se considera un lenguaje de propósito general para muchas plataformas, no solo para Android. El lenguaje se actualiza con varias versiones al año. La última versión se puede encontrar en el [sitio oficial](https://kotlinlang.org). Este curso está basado en la versión v2.1, pero intentaré ir actualizandolo si se producen cambios en el lenguaje en versiones posteriores.
 
 ## Una función de Kotlin de muestra
 
@@ -49,7 +49,7 @@ Por ejemplo, los desarrolladores que están familiarizados con Java pueden apren
 ![Destinos de uso de Kotlin](/img/KotlinMultilang.png)
 
 - [JVM](https://docs.oracle.com/javase/specs/jvms/se8/html): Kotlin es completamente interoperable con Java, lo que significa que Kotlin funciona muy bien con todo el [código fuente](/glosario#codigo-fuente) y las bibliotecas de Java existentes. También permite a las empresas realizar una migración gradual de Java a Kotlin porque el código Java también puede acceder al código Kotlin. Al mismo tiempo, los desarrolladores pueden usar Kotlin como el único lenguaje del proyecto, para ser ejecutado en cualquier dispositivo con soporte JVM.
-- [Android](https://www.android.com): Utilizando la sintaxis de Kotlin, puede crear aplicaciones móviles para Android, el sistema operativo más utilizado en el mundo.
+- [Android](https://www.android.com): Utilizando el lenguaje Kotlin, puede crear aplicaciones móviles para Android, el sistema operativo más utilizado en el mundo.
 - JS: Kotlin también es compatible con JavaScript, lo que le permite desarrollar aplicaciones web del lado del cliente y ejecutarlas en un navegador.
 - [Nativo](https://kotlinlang.org/docs/native-overview.html): Kotlin/Native es una tecnología para compilar código Kotlin en ejecutables nativos que se pueden ejecutar en cualquier sistema operativo, como Windows, Linux, iOS y macOS.
 - [Multiplataforma](https://kotlinlang.org/docs/multiplatform.html#kotlin-multiplatform-use-cases): Con Kotlin Multiplatform, puede crear aplicaciones móviles multiplataforma que comparten código entre proyectos Android e iOS para implementar redes, almacenamiento de datos y validación de datos, análisis, cálculos y otra lógica de aplicación.
