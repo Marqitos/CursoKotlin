@@ -1,14 +1,14 @@
 ---
 layout: playground
-title: Literales básicos: Números, cadenas de texto y caractéres
-description: Teoría - Literales básicos: Números, cadenas de texto y caractéres
+title: Literales básicos: Números, cadenas de texto, caractéres y booleanos
+description: Teoría - Literales básicos. Números, cadenas de texto, caractéres y booleanos (`true` y `false`)
 ---
 
-# Literales básicos: Números, cadenas de texto y caractéres
+# Literales básicos: Números, cadenas de texto, caractéres y booleanos (`true` y `false`)
 
-Independientemente de su complejidad, todos los programas realizan esencialmente operaciones con números, cadenas y otros valores. Estos valores se denominan literales, es decir, en el sentido o significado más básico del símbolo. 
+Independientemente de su complejidad, todos los programas realizan esencialmente operaciones con números, cadenas y otros valores. Estos valores se denominan literales, es decir, en el sentido o significado más básico del símbolo.
 
-Antes de comenzar a escribir nuestros primeros programas, aprendamos los literales básicos en Kotlin: números ( enteros y con decimales), caracteres y cadenas. Puedes encontrar estos literales en todas partes en la vida cotidiana.
+Antes de comenzar a escribir nuestros primeros programas, aprendamos los literales básicos en Kotlin: números ( enteros y con decimales), caracteres, cadenas de carateres y booleanos. Puedes encontrar estos literales en todas partes en la vida cotidiana.
 
 ## Números
 
@@ -28,11 +28,11 @@ Además de contar cosas simples, podemos necesitar números con decimales, que s
 
 Pero es muy común en el mundo real, como para representar dinero. O cuentas más especificas, como el area de un círculo, donde necesita el número π.
 
-Para ello escribir utilizando `.` como separador decimal, por ejemplo `3.1415926`.
+Para ello lo escribimos utilizando `.` como separador decimal, por ejemplo `3.1415926`.
 
 ## Caracteres
 
-Un solo carácter puede representar un dígito, una letra u otro símbolo. Para escribir un solo carácter, envolvemos un símbolo entre comillas simples de la siguiente manera: `'A'`, `'B'`, `'C'`, `'x'`, `'y'`, `'z'`, `'0'`, `'1'`, `'2'`, `'9'`. Los literales de caracteres pueden representar letras del alfabeto, dígitos del `'0'` al `'9'`, espacios en blanco (`' '`) o algunos otros símbolos (por ejemplo, `'$'`).
+Un carácter puede representar un dígito, una letra u otro símbolo. Para escribir un carácter, envolvemos un símbolo entre comillas simples de la siguiente manera: `'A'`, `'B'`, `'C'`, `'x'`, `'y'`, `'z'`, `'0'`, `'1'`, `'2'`, `'9'`. Los literales de caracteres pueden representar letras del alfabeto, dígitos del `'0'` al `'9'`, espacios en blanco (`' '`) o algunos otros símbolos (por ejemplo, `'$'`).
 
 No confunda los caracteres que representan números (por ejemplo, `'9'`) con los números en sí mismos (por ejemplo, `9`), ya que se tratan de tipos de datos diferentes.
 
@@ -46,10 +46,21 @@ Para escribir cadenas, envolvemos caracteres entre comillas dobles en lugar de c
 
 Una cadena también puede contener un solo carácter, como `"A"`. No lo confundas con el carácter `'A'`, que no es una cadena.
 
+## Booleanos
+
+Otro tipo de dato básico, son los booleanos, es un tipo de datos que solo tiene dos valores posibles `true` (verdadero) o `false` (falso).
+
+Los valores booleanos se utilizan a menudo en programación. Básicamente, representan dos estados opuestos. Por ejemplo, un valor booleano puede indicar:
+
+- si una tienda está abierta;
+- si un avión está en el cielo;
+- si está permitido viajar;
+- si una opción está habilitada, etc.
+
 ## Conclusión
 
-En la codificación diaria, dependes en gran medida de literales. A menudo, usarás números enteros como `123` para contar o medir, caracteres como `'A'` o `'1'` para símbolos individuales y cadenas como `"ABC"` para manejar texto. La eficiencia es clave en la programación. Cuando el uso de la memoria sea una preocupación, opta por un carácter como `'A'` en lugar de una cadena como `"A"`, ya que los caracteres suelen utilizar menos memoria.
+En la codificación diaria, dependes en gran medida de literales. A menudo, usarás números enteros como `123` para contar o medir, caracteres como `'A'` o `'1'` para símbolos individuales y cadenas como `"ABC"` para manejar texto. La eficiencia es clave en la programación. Cuando el uso de la memoria sea una preocupación, opta por un carácter como `'A'` en lugar de una cadena como `"A"`, ya que los caracteres suelen utilizar menos memoria. Los booleanos se utilizan mucho más de lo que imaginas, los veremos con más detalle más adelante.
 
-Esto es solo el comienzo. Kotlin ofrece una amplia gama de otros literales para que explores en los próximos temas.
+Esto es solo el comienzo.
 
-¡Así que practiquemos para dominar estos tres básicos!
+¡Así que practiquemos para dominar estos básicos!
