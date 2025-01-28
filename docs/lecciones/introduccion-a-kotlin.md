@@ -54,11 +54,11 @@ Por ejemplo, los desarrolladores que están familiarizados con Java pueden apren
 - [Nativo](https://kotlinlang.org/docs/native-overview.html): Kotlin/Native es una tecnología para compilar código Kotlin en ejecutables nativos que se pueden ejecutar en cualquier sistema operativo, como Windows, Linux, iOS y macOS.
 - [Multiplataforma](https://kotlinlang.org/docs/multiplatform.html#kotlin-multiplatform-use-cases): Con Kotlin Multiplatform, puede crear aplicaciones móviles multiplataforma que comparten código entre proyectos Android e iOS para implementar redes, almacenamiento de datos y validación de datos, análisis, cálculos y otra lógica de aplicación.
 
-Entre todas estas oportunidades, los programadores modernos prefieren el desarrollo móvil y del lado del servidor, pero otras áreas también están ganando popularidad.
+Entre todas estas oportunidades, los programadores modernos prefieren el desarrollo móvil y del lado del servidor, pero el lenguaje también está ganando popularidad en otras areas.
 
 ## Características: Programación funcional, programación orientada a objetos y más
 
-Kotlin está diseñado como un lenguaje pragmático, lo que significa que su propósito principal es resolver problemas del mundo real en lugar de cumplir propósitos de investigación.
+Kotlin está diseñado como un lenguaje pragmático, lo que significa que su propósito principal es resolver problemas del mundo real en lugar de cumplir propósitos concretos.
 
 También es importante que Kotlin admita múltiples paradigmas de programación, como programación imperativa, programación orientada a objetos, programación genérica, programación funcional y más. Kotlin también ofrece herramientas como funciones anónimas y funciones de orden superior, que permiten a los desarrolladores crear fácilmente abstracciones sobre el código existente.
 

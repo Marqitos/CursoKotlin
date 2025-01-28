@@ -1,10 +1,10 @@
 ---
 layout: playground
-title: Literales básicos: Números, cadenas de texto, caractéres y booleanos
-description: Teoría - Literales básicos. Números, cadenas de texto, caractéres y booleanos (`true` y `false`)
+title: Literales básicos. Números, cadenas de texto, caractéres y booleanos
+description: Teoría - Literales básicos. Números, cadenas de texto, caractéres y booleanos (true y false)
 ---
 
-# Literales básicos: Números, cadenas de texto, caractéres y booleanos (`true` y `false`)
+# Literales básicos: Números, cadenas de texto, caractéres y booleanos
 
 Independientemente de su complejidad, todos los programas realizan esencialmente operaciones con números, cadenas y otros valores. Estos valores se denominan literales, es decir, en el sentido o significado más básico del símbolo.
 
