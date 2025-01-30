@@ -15,7 +15,7 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 ## Lecciones
 
 - [ ] [Introducción a Kotlin](/lecciones/introduccion-a-kotlin)
-- [ ] [Literales básicos: Números, cadenas de texto, caractéres y booleanos](/lecciones/literales-basicos)
+- [ ] [Literales básicos: Números, cadenas de texto, carácteres y booleanos](/lecciones/literales-basicos)
 - [ ] Escribiendo tu primer programa
 - [ ] Valores y variables
 - [ ] Constantes y variables tipo `val`
@@ -40,19 +40,42 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] Trabajando con enteros
 - [ ] Comparando números, operadores relacionales
 - [ ] Rangos
+- [ ] Aleatorios `Random`
 - [ ] Errores en programas
 - [ ] Excepciones
 - [ ] Jerarquía de excepciones
 - [ ] Sentencias `try`-`catch`
 - [ ] Lanzando excepciones
 - [ ] Sentencias `try`-`catch`-`finally`
-- [ ] Control de flujo, expresion `if`
-- [ ] Control de flujo, bucles `while`
-- [ ] Control de flujo, expresion `when`
+- [ ] Control de flujo, expresión `if`
+- [ ] Control de flujo, expresión `repeat`
+- [ ] Control de flujo, bucles `while` y `do`-`while`
+- [ ] Control de flujo, expresión `when`
+- [ ] Control de flujo, expresión `for`, con rangos
 - [ ] Declarando funciones
 - [ ] Descomposición funcional
 - [ ] Parámetros por defecto
 - [ ] Introducción a colecciones
+- [ ] `List`
+- [ ] `List` modificables
+- [ ] Control del flujo, expresión `for`, con listas
+- [ ] `Set`
+- [ ] `Set` modificables
+- [ ] `Map`
+- [ ] `Map` modificables
+- [ ] Listas multidimensionales
+- [ ] ¿Que es la programación orientada a objetos?
+- [ ] Declarando clases
+- [ ] Constructores
+- [ ] Constructores secundarios
+- [ ] Funciones de miembros
+- [ ] Funciones de extensión
+- [ ] Encapsulación
+- [ ] Control de acceso
+- [ ] Enumerables
+- [ ] `imports` y `packages`
+- [ ] Iteradores, expresion `yield`
+- [ ] Entornos de desarrollo: IDEs
 
 ### Descargas para lectura offline
 
