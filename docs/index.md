@@ -33,6 +33,25 @@ Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprend
 - Kotlin para desarrolladores BackEnd
 - Curso completo de Kotlin
 
+## Otros recursos
+
+Si lo que deseas es aprender a programar, pero no estas seguro de por que lenguaje te será más util.
+He creado una pequeña ruta para introducirte en el mundo de la programación, sin profundizar en ningún lenguaje.
+
+Y a conocer las herramientas que te ayudarán a programar.
+
+- Introducción a la programación
+- Introducción a la metodología Scrum
+- Introducción al control de versiones
+
+### Otros lenguajes de programación
+
+- C / C++
+- C#
+- PHP
+- Python
+- Swift
+
 ## Referencias
 
 - [Curso original en Inglés, de JetBrains Academy](https://www.jetbrains.com/academy/)

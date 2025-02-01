@@ -72,4 +72,4 @@ Ya tienes una idea de lo que es Kotlin, origen, diversas aplicaciones y caracter
 
 Usa tus nuevos conocimientos para completar este paso inicial de tu emocionante viaje.
 
-[¡Practiquemos!](/lecciones/ejercicio-01)
+[¡Practiquemos!](/lecciones/ejercicio-001)

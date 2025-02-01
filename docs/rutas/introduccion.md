@@ -15,13 +15,13 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 ## Lecciones
 
 - [ ] [Introducción a Kotlin](/lecciones/introduccion-a-kotlin)
-- [ ] [Literales básicos: Números, cadenas de texto, carácteres y booleanos](/lecciones/literales-basicos)
-- [ ] Escribiendo tu primer programa
+- [ ] [Literales básicos: Números, cadenas de texto, caracteres y booleanos](/lecciones/literales-basicos)
+- [ ] [Escribiendo tu primer programa](/lecciones/escribiendo-tu-primer-programa)
 - [ ] Valores y variables
 - [ ] Constantes y variables tipo `val`
 - [ ] Tipos de datos
 - [ ] Comentarios
-- [ ] Convecciones de código
+- [ ] Convecciones de código. Guía de estilo de Kotlin
 - [ ] Nombres de variables
 - [ ] La salida standart
 - [ ] Llamando a funciones
@@ -55,6 +55,7 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] Declarando funciones
 - [ ] Descomposición funcional
 - [ ] Parámetros por defecto
+- [ ] Parámetros con nombre
 - [ ] Introducción a colecciones
 - [ ] `List`
 - [ ] `List` modificables
@@ -72,10 +73,20 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] Funciones de extensión
 - [ ] Encapsulación
 - [ ] Control de acceso
+- [ ] Herencia
+- [ ] Abstracción
+- [ ] Interfaces
+- [ ] Polimorfismo
 - [ ] Enumerables
 - [ ] `imports` y `packages`
 - [ ] Iteradores, expresion `yield`
 - [ ] Entornos de desarrollo: IDEs
+- [ ] Documentación
+- [ ] Entornos de ejecución
+- [ ] Introducción al pensamiento computacional
+- [ ] Componentes del pensamiento computacional
+- [ ] Recursos externos
+- [ ] Principios de evolución de Kotlin
 
 ### Descargas para lectura offline
 
