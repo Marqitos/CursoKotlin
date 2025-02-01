@@ -17,7 +17,7 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] [Introducción a Kotlin](/lecciones/introduccion-a-kotlin)
 - [ ] [Literales básicos: Números, cadenas de texto, caracteres y booleanos](/lecciones/literales-basicos)
 - [ ] [Escribiendo tu primer programa](/lecciones/escribiendo-tu-primer-programa)
-- [ ] Valores y variables
+- [ ] [Valores y variables](/lecciones/valores-y-variables)
 - [ ] Constantes y variables tipo `val`
 - [ ] Tipos de datos
 - [ ] Comentarios
@@ -65,6 +65,8 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] `Map`
 - [ ] `Map` modificables
 - [ ] Listas multidimensionales
+- [ ] Funciones en línea
+- [ ] Funciones `lamda`
 - [ ] ¿Que es la programación orientada a objetos?
 - [ ] Declarando clases
 - [ ] Constructores

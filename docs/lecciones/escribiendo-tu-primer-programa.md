@@ -58,7 +58,7 @@ Hablaremos de las funciones más adelante. El nombre de esta función debe ser s
 
 `println("¡Hola, mundo!")`
 
-Esta es una de las cosas más importantes que hay que entender sobre el programa Hola mundo. Invocamos la función `println` para mostrar una cadena seguida de una nueva línea en la pantalla. A menudo utilizaremos esta forma para imprimir algo.
+Esta es una de las cosas más importantes que hay que entender sobre el programa **Hola mundo**. Llamamos a la función `println` para mostrar una cadena seguida de una nueva línea en la pantalla. A menudo utilizaremos esta forma para imprimir algo.
 
 >**Recuerda** que `"Hola, mundo!"` no es una palabra clave ni un nombre, es solo una cadena literal que se imprime en la pantalla.
 
@@ -75,11 +75,15 @@ fun main() {
 
 Si ejecutas el programa, verás que muestra esto:
 
-```
+```DOS
 Hola
 Mundo
 ```
 
 ## Conclusión
 
-¡Felicitaciones! Hemos escrito nuestro primer programa, que imprime **"¡Hola, mundo!"** Tiene una función llamada `main`, que representa el punto de entrada de este programa. No te preocupes por todos esos términos (**sintaxis**, **declaración**, **bloque**) por ahora; los explicaremos a lo largo de este curso. No olvides usar tu primer código como plantilla para tus futuros programas.
+¡Felicitaciones! Hemos escrito nuestro primer programa, que imprime **"¡Hola, mundo!"** Tiene una función llamada `main`, que representa el punto de entrada de este programa. No te preocupes por todos esos términos (**sintaxis**, **declaración**, **bloque**) por ahora; los explicaremos a lo largo de este curso.
+
+No olvides que puedes usar tu primer código como plantilla para tus futuros programas.
+
+[¡Practiquemos!](/lecciones/ejercicio-021)

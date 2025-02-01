@@ -1,5 +1,5 @@
 ---
-layout: playground
+layout: default
 title: Literales básicos. Números, cadenas de texto, caractéres y booleanos
 description: Teoría - Literales básicos. Números, cadenas de texto, caractéres y booleanos (true y false)
 ---
@@ -63,4 +63,4 @@ En la codificación diaria, dependes en gran medida de literales. A menudo, usar
 
 Esto es solo el comienzo.
 
-[¡Así que practiquemos para dominar estos básicos!](https://marcospor.to/kotlin/ejercicio-002)
+[¡Así que practiquemos para dominar estos básicos!](https://marcospor.to/kotlin/ejercicio-011)
