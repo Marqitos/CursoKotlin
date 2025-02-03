@@ -32,10 +32,10 @@
        xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
        xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
        mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
-    <w:p w14:paraId="092C94C3"
-         w14:textId="7F38468D"
-         w:rsidR="00581F69"
-         w:rsidRDefault="007B1730"
+    <w:p w14:paraId="59B3B78E"
+         w14:textId="77777777"
+         w:rsidR="00D562BF"
+         w:rsidRDefault="00D562BF"
          w:rsidP="00581F69">
         <w:pPr>
             <w:pStyle w:val="Ttulo1" />
@@ -50,13 +50,13 @@
                            distL="114300"
                            distR="114300"
                            simplePos="0"
-                           relativeHeight="251658240"
+                           relativeHeight="251660288"
                            behindDoc="1"
                            locked="0"
                            layoutInCell="1"
                            allowOverlap="1"
-                           wp14:anchorId="09D55BCE"
-                           wp14:editId="7606E092">
+                           wp14:anchorId="2CDE106D"
+                           wp14:editId="5E28F10D">
                     <wp:simplePos x="0"
                                   y="0" />
                     <wp:positionH relativeFrom="page">
@@ -72,8 +72,8 @@
                                      r="3175"
                                      b="0" />
                     <wp:wrapNone />
-                    <wp:docPr id="27"
-                              name="Gráfico 27" />
+                    <wp:docPr id="24"
+                              name="Gráfico 24" />
                     <wp:cNvGraphicFramePr>
                         <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
                                              noChangeAspect="1" />
@@ -126,9 +126,47 @@
                 </wp:anchor>
             </w:drawing>
         </w:r>
-        <w:r w:rsidR="00581F69"
-             w:rsidRPr="00581F69">
+        <w:r w:rsidRPr="00581F69">
             <w:t>Introducción a Kotlin</w:t>
+        </w:r>
+    </w:p>
+    <w:p w14:paraId="5E959E12"
+         w14:textId="77777777"
+         w:rsidR="00D562BF"
+         w:rsidRPr="00D562BF"
+         w:rsidRDefault="00D562BF"
+         w:rsidP="00D562BF">
+        <w:pPr>
+            <w:pStyle w:val="Ttulo2" />
+            <w:rPr>
+                <w:color w:val="F2F2F2"
+                         w:themeColor="background1"
+                         w:themeShade="F2" />
+            </w:rPr>
+        </w:pPr>
+        <w:r w:rsidRPr="00D562BF">
+            <w:rPr>
+                <w:color w:val="F2F2F2"
+                         w:themeColor="background1"
+                         w:themeShade="F2" />
+            </w:rPr>
+            <w:t>Literales básicos:</w:t>
+        </w:r>
+        <w:r>
+            <w:rPr>
+                <w:color w:val="F2F2F2"
+                         w:themeColor="background1"
+                         w:themeShade="F2" />
+            </w:rPr>
+            <w:br />
+        </w:r>
+        <w:r w:rsidRPr="00D562BF">
+            <w:rPr>
+                <w:color w:val="F2F2F2"
+                         w:themeColor="background1"
+                         w:themeShade="F2" />
+            </w:rPr>
+            <w:t>Números, cadenas de texto, caracteres y booleanos</w:t>
         </w:r>
     </w:p>
 </w:hdr>

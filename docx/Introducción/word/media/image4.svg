@@ -1,0 +1,21 @@
+<svg viewBox="0 0 600 100"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     overflow="hidden">
+    <linearGradient x1="0"
+                    y1="0"
+                    x2="600"
+                    y2="100"
+                    gradientUnits="userSpaceOnUse"
+                    id="SVGID_1_">
+        <stop offset="0"
+              stop-color="#155799" />
+        <stop offset="1"
+              stop-color="#159957" />
+    </linearGradient>
+    <rect x="0"
+          y="0"
+          width="600"
+          height="100"
+          fill="url(#SVGID_1_)" />
+</svg>
