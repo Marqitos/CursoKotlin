@@ -8,7 +8,7 @@ description: Teoría - Introducción a Kotlin
 
 ## ¿Qué es Kotlin?
 
-Kotlin es un lenguaje de programación moderno y muy eficaz desarrollado por [JetBrains](https://jetbrains.com). Tiene una [sintaxis](/glosario#sintaxis) muy clara y concisa, lo que hace que su código sea fácil de leer.
+Kotlin es un lenguaje de programación moderno y muy eficaz desarrollado por [JetBrains](https://jetbrains.com). Tiene una [sintaxis](/glosario#sintaxis) clara y concisa, lo que hace que su código sea fácil de leer.
 
 Kotlin se utiliza ampliamente en todo el mundo y su popularidad entre los desarrolladores crece constantemente. Muchos desarrolladores que utilizan Kotlin señalan que hace que su trabajo sea más rápido y productivo 😀
 

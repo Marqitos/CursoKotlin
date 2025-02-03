@@ -43,6 +43,8 @@ Y a conocer las herramientas que te ayudarán a programar.
 - Introducción a la programación
 - Introducción a la metodología Scrum
 - Introducción al control de versiones
+- Introducción a la terminal de Unix
+- Guía de buenas prácticas
 
 ### Otros lenguajes de programación
 
@@ -50,6 +52,7 @@ Y a conocer las herramientas que te ayudarán a programar.
 - C#
 - PHP
 - Python
+- SQL / Bases de datos
 - Swift
 
 ## Referencias

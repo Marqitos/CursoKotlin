@@ -18,8 +18,8 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] [Literales básicos: Números, cadenas de texto, caracteres y booleanos](/lecciones/literales-basicos)
 - [ ] [Escribiendo tu primer programa](/lecciones/escribiendo-tu-primer-programa)
 - [ ] [Valores y variables](/lecciones/valores-y-variables)
-- [ ] Constantes y variables tipo `val`
-- [ ] Tipos de datos
+- [ ] [Constantes y variables tipo `val`](/lecciones/constantes-y-valores)
+- [ ] [Tipos de datos](/lecciones/tipos-de-datos)
 - [ ] Comentarios
 - [ ] Convecciones de código. Guía de estilo de Kotlin
 - [ ] Nombres de variables
@@ -31,15 +31,15 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] Interpolación de variables (plantillas)
 - [ ] El tipo `Char`. Caracteres
 - [ ] Unicode
-- [ ] Operaciones con booleanos
-- [ ] Operaciones aritméticas
-- [ ] Incremento y decremento
-- [ ] Propiedades de los tipos básicos
-- [ ] Conversión de tipos
-- [ ] Coerción de tipos
 - [ ] Trabajando con enteros
 - [ ] Comparando números, operadores relacionales
 - [ ] Rangos
+- [ ] Operaciones aritméticas
+- [ ] Incremento y decremento
+- [ ] Operaciones con booleanos
+- [ ] Propiedades de los tipos básicos
+- [ ] Conversión de tipos
+- [ ] Coerción de tipos
 - [ ] Aleatorios `Random`
 - [ ] Errores en programas
 - [ ] Excepciones

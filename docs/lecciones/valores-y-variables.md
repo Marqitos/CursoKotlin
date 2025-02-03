@@ -14,11 +14,11 @@ Las variables son uno de los elementos más utilizados en los programas; por lo 
 
 ## Declaración de variables
 
-Antes de poder comenzar a utilizar una variable, debes declararla. Para declarar una variable, Kotlin proporciona dos palabras clave:
+Antes de poder comenzar a utilizar una variable, debes declararla. Para ello, Kotlin proporciona dos palabras clave:
 
 - **`val`** (para valor) declara una variable de **solo lectura** (solo un valor nombrado), que no se puede cambiar después de que se haya inicializado, por lo que se puede asignar un valor una vez (en realidad, esto no es del todo cierto, analizaremos este tema con más detalle más adelante);
 - **`var`** (para variable) declara una variable mutable, que se puede cambiar (tantas veces como sea necesario).
-- **`const`** se utiliza para constantes (junto con `val`), valores que se conocen en tiempo de compilación.
+**`const`** se utiliza para constantes (junto con `val`), para valores que se conocen *en tiempo de compilación*.
 
 ¡Las palabras clave `val` y `var` te proporcionan una variable!
 
@@ -52,7 +52,7 @@ dayOfWeek = "martes"
 println(dayOfWeek) // Imprime martes
 ```
 
-En el ejemplo anterior, declaramos una variable llamada `dayOfWeek` y la inicializamos con el valor `"lunes"`. Luego, accedimos al valor por el nombre de la variable y lo imprimimos. Después de eso, cambiamos el valor de la variable a `"martes"` e imprimimos este nuevo valor.
+En el ejemplo anterior, declaramos una variable llamada `dayOfWeek` y la inicializamos con el valor `"lunes"`. Luego, accedimos al valor por el nombre de la variable y lo imprimimos. Después de eso, cambiamos su valor a `"martes"` e imprimimos este nuevo valor.
 
 No es necesario que vuelvas a declarar una variable para cambiar su valor. Simplemente asígnale un nuevo valor usando el operador `=`.
 
@@ -92,11 +92,11 @@ number = "doce" // ¡Aquí hay un error!
 
 >**¡Recuerde esta restricción!**
 >
->Los lenguajes que tiene esta restricción, como Koltin, se les conoce como **lenguaje fuertemente tipado**.
+>Los lenguajes que tienen esta restricción, como Koltin, se les conoce como **lenguaje fuertemente tipado**.
 
 ## Conclusión
 
-Ahora sabe que hay dos palabras clave que se utilizan para declarar variables. De hecho, en muchos casos, es mejor usar variables inmutables (aquellas declaradas con la palabra clave `val`). Antes de usar `var`, debes asegurarte de que `val` no sea adecuado en ese caso. Si realmente no lo es, usa `var`.
+Ahora sabes que hay dos palabras clave que se utilizan para declarar variables. De hecho, en muchos casos, es mejor usar variables inmutables (aquellas declaradas con la palabra clave `val`). Antes de usar `var`, debes asegurarte de que `val` no sea adecuado en ese caso. Si realmente no lo es, usa `var`.
 
 Sin embargo, ten en cuenta que cuantas más variables mutables tengas en tu código, más difícil será leerlo y comprenderlo.
 
