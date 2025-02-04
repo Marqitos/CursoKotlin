@@ -95,7 +95,7 @@
                                             </a:ext>
                                             <a:ext uri="{96DAC541-7B7A-43D3-8B79-37D633B846F1}">
                                                 <asvg:svgBlip xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main"
-                                                              r:embed="rId2" />
+                                                              r:embed="rId1" />
                                             </a:ext>
                                         </a:extLst>
                                     </a:blip>
