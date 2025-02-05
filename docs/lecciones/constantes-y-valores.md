@@ -88,10 +88,10 @@ const val CONST_INT = 127
 const val CONST_DOUBLE = 3.14
 const val CONST_CHAR = 'c'
 const val CONST_STRING = "Soy constante"
-const val CONST_ARRAY = arrayOf(1, 2, 3) // Error: solo se permiten primitivas y cadenas
+const val CONST_ARRAY = arrayOf(1, 2, 3) // Error: solo se permiten valores primitivos y cadenas
 ```
 
-Además, las variables const deben declararse en el nivel superior, fuera de cualquier función:
+Además, las variables `const` deben declararse en el nivel superior, es decir, fuera de cualquier función:
 
 ```kotlin
 const val MY_INT_1 = 1024 // Línea correcta
@@ -114,4 +114,4 @@ val c = 128
 a += b * c
 ```
 
-Este enfoque le permite escribir programas con la cantidad mínima de variables mutables, lo que genera menos errores.
+Este enfoque te permite escribir programas con la cantidad mínima de variables mutables, lo que genera menos errores.

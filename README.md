@@ -11,7 +11,7 @@ Pondremos a tu servicio distintas rutas de aprendizaje, para que que aprendas de
 
 Además podrás elejir como consumir nuestro contenido:
 
-- Leer online nuestros cursos, con ejercicios.
+- [Leer online nuestros cursos](https://cursokotlin.marcopor.to), con ejercicios.
 - Ver en video los cursos, con enlaces a los ejercicios.
 - Descargar los cursos como un documento y poder estudiar offline en tu eBook
 

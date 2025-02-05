@@ -14,9 +14,9 @@ fun main() {
 }
 ```
 
-Por ahora, no necesitas entender cómo funciona este código, solo ¡disfrútalo! 😀
+Por ahora, no necesitas entender cómo funciona este código.
 
-## Explicación
+## Breve explicación
 
 Pero si tienes curiosidad.
 

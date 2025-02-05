@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Ruta de estudio - Introducción a Kotlin
-description: Índice de la ruta de estudio - Introducción a Kotlin
+title: Ruta de estudio - Curso base de Kotlin
+description: Índice de la ruta de estudio - Curso base de Kotlin
 ---
 
-# Ruta: Introducción a Kotlin
+# Ruta: Curso base de Kotlin
 
 ¡Comienza tu viaje con la programación con Kotlin!
 Descubre cómo trabajar con variables, utilizar controles de flujo y comprender los conceptos esenciales de la programación orientada a objetos.
+Como hacer programas en Kotlin, y como ejecutar los mismos.
 
 - [Lista de reproducción en YouTube]
 - [Ruta de estudio en PayHip]
@@ -67,6 +68,10 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] Listas multidimensionales
 - [ ] Funciones en línea
 - [ ] Funciones `lamda`
+- [ ] Escribir código, compilar y ejecutar
+- [ ] Términos básicos: JVM, JRE, JDK
+- [ ] Herramientas de compilación
+
 - [ ] ¿Que es la programación orientada a objetos?
 - [ ] Declarando clases
 - [ ] Constructores
@@ -92,7 +97,5 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 
 ### Descargas para lectura offline
 
-![Portada Libro: Introducción a Kotlin](/eBook/Introducción.svg)
-
-- [PDF](/eBook/Introducción.pdf)
+- PDF
 - ePub

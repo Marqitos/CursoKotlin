@@ -20,7 +20,7 @@ Es conciso, seguro, interoperable con Java y otros lenguajes, y ofrece muchas ma
 
 Aquí te ofrecemos unas guías de estudio, para hacer más ameno su aprendizaje.
 
-Pero ten en mente siempre una cosa, la mejor manera de aprender un lenguaje, es practicando.
+Pero ten en mente siempre una cosa, la mejor manera de aprender un lenguaje es practicando.
 
 Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprendido, y enlaces a [Retos de programación](https://retosdeprogramacion.com)[^1].
 
@@ -28,14 +28,14 @@ Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprend
 
 - [Introducción a Kotlin](/rutas/introduccion)
 - Introduccion a Kotlin para Android
-- Curso base de Kotlin
+- [Curso base de Kotlin](/rutas/curso-kotlin-core) (Recomendado para iniciar)
 - Kotlin para Android
 - Kotlin para desarrolladores BackEnd
 - Curso completo de Kotlin
 
 ## Otros recursos
 
-Si lo que deseas es aprender a programar, pero no estas seguro de por que lenguaje te será más util.
+Si lo que deseas es aprender a programar, pero no estás seguro de por qué lenguaje te será más útil.
 He creado una pequeña ruta para introducirte en el mundo de la programación, sin profundizar en ningún lenguaje.
 
 Y a conocer las herramientas que te ayudarán a programar.

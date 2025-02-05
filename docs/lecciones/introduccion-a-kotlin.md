@@ -10,9 +10,9 @@ description: Teoría - Introducción a Kotlin
 
 Kotlin es un lenguaje de programación moderno y muy eficaz desarrollado por [JetBrains](https://jetbrains.com). Tiene una [sintaxis](/glosario#sintaxis) clara y concisa, lo que hace que su código sea fácil de leer.
 
-Kotlin se utiliza ampliamente en todo el mundo y su popularidad entre los desarrolladores crece constantemente. Muchos desarrolladores que utilizan Kotlin señalan que hace que su trabajo sea más rápido y productivo 😀
+Kotlin se utiliza ampliamente en todo el mundo y su popularidad entre los desarrolladores crece constantemente. Muchos desarrolladores que utilizan Kotlin señalan que hace que su trabajo sea más rápido y productivo, ya que escriben sobre un 40% menos de código que en [Java](/glosario#java), para hacer lo mismo. 😀
 
-![Logo Kotlin](/img/logoKotlin.png)
+![Logo Kotlin](/img/logoKotlin.svg)
 
 La sintaxis básica de Kotlin es similar a la de Java, pero tiene numerosas ventajas. Una de estas características son las funciones de extensión, que ofrecen a los desarrolladores la capacidad de ampliar la funcionalidad de las clases sin tener que utilizar la herencia. Además, Kotlin ofrece [inferencia de tipos](/glosario#inferencia-de-tipos), lo que permite al compilador determinar el tipo de variable en función del contexto, lo que simplifica la codificación y reduce la cantidad de errores en programas complejos.
 
@@ -32,13 +32,13 @@ En este momento, Kotlin se considera un lenguaje de propósito general para much
 
 A continuación, se muestra una muestra de un programa simple en el lenguaje de programación Kotlin que imprime `¡Hola, Kotlin!`.
 
+Si conoces otros lenguajes de programación, posiblemente veas cosas en común con ellos. Pero, por ahora, no necesitas entender cómo funciona este código.
+
 ```kotlin
 fun main() {
     println("¡Hola, Kotlin!")
 }
 ```
-
-Por ahora, no necesitas entender cómo funciona este código, ¡solo disfrútalo! 😀
 
 ## Plataformas de aplicación para Kotlin: JVM, Android, JS, Nativo
 
