@@ -12,7 +12,8 @@ slug: introduccion
 
 Kotlin es el lenguaje preferido de Google para el desarrollo de aplicaciones para Android.
 
-Descubre cómo trabajar con variables, utilizar controles de flujo y comprender los conceptos esenciales de la programación orientada a objetos.
+Descubre cómo trabajar con variables, utilizar controles de flujo y
+comprender los conceptos esenciales de la programación orientada a objetos.
 
 - [Lista de reproducción en YouTube]
 - [Ruta de estudio en PayHip]
@@ -101,7 +102,7 @@ Inicia sesión, y podremos ofrecerte proyectos con los que practicar lo aprendid
 
 ### Descargas para lectura offline
 
-<img alt="Portada Libro: Introducción a Kotlin" src="/eBook/Introducción.svg" class="ebook-cover"/>
+<img alt="Portada Libro: Introducción a Kotlin" src="/eBook/Introducci%C3%B3n.svg" style="width:100%; max-width: 160px;">
 
 - [PDF](/eBook/Introducción.pdf)
 - ePub

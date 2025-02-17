@@ -1,5 +1,4 @@
-@import 'jekyll-theme-cayman';
+---
+---
 
-.ebook-cover {
-    max-width: 10em;
-}
+@import "{{ site.theme }}";
