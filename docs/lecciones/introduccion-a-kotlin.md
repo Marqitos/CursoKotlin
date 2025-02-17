@@ -26,7 +26,7 @@ En la conferencia Google I/O 2017, Google anunció un soporte de primera clase p
 
 > Entendemos que no todo el mundo está usando Kotlin ahora mismo, pero creemos que llegará ese momento
 
-En este momento, Kotlin se considera un lenguaje de propósito general para muchas plataformas, no solo para Android. El lenguaje se actualiza con varias versiones al año. La última versión se puede encontrar en el [sitio oficial](https://kotlinlang.org). Este curso está basado en la versión v2.1, pero intentaré ir actualizandolo si se producen cambios en el lenguaje en versiones posteriores.
+En este momento, Kotlin se considera un lenguaje de propósito general para muchas plataformas, no solo para Android. El lenguaje se actualiza con varias versiones al año. La última versión se puede encontrar en el [sitio oficial](https://kotlinlang.org). Este curso está basado en la versión v2.1, pero intentaré ir actualizándolo si se producen cambios en el lenguaje en versiones posteriores.
 
 ## Una función de Kotlin de muestra
 

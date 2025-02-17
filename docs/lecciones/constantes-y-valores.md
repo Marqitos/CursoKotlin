@@ -39,7 +39,7 @@ cnt = 20 // Aquí no hay errores, cnt no es una constante
 
 ### Variables `val` y mutabilidad
 
-Es importante tener en cuenta que `val` no es sinónimo de inmutable. En el siguiente ejemplo, utilizaremos una `MutableList`, que es un conjunto ordenado de elementos del mismo tipo. Puedes avanzar y aprender más sobre `MutableList`, pero no es necesario en este momento.
+Es importante tener en cuenta que `val` no es sinónimo de inmutable. En el siguiente ejemplo, utilizaremos una `MutableList`, que es un conjunto ordenado de elementos del mismo tipo. Puedes avanzar y aprender más sobre `MutableList`, pero no es necesario de momento.
 
 ```kotlin
 // Creación de la lista
@@ -48,7 +48,7 @@ val myMutableList = mutableListOf(1, 2, 3, 4, 5)
 myMutableList = mutableListOf(1, 2, 3, 4, 5, 6) // Línea de error
 ```
 
-La segunda línea no se compilará, ya que estamos intentando reasignar una variable val. Sin embargo, hay un punto esencial que recordar.
+La segunda línea no se compilará, ya que estamos intentando reasignar una variable `val`. Sin embargo, hay un punto esencial que recordar.
 
 Siempre es posible cambiar el estado interno de una variable `val`: si bien está prohibido reasignar la variable, su contenido se puede modificar de otras maneras.
 
@@ -60,10 +60,10 @@ val myMutableList = mutableListOf(1, 2, 3, 4, 5)
 // Añadir un nuevo elemento
 myMutableList.add(6) // Funciona
 // Imprimir lista
-println(myMutableList) // [1, 2, 3, 4, 5, 6]
+println(myMutableList) // Imprime [1, 2, 3, 4, 5, 6]
 ```
 
-Como puedes ver, este código cambió el estado interno de `myMutableList` agregando otro número entero. Cuando invocamos la función add(), no cambiamos la variable en sí, sino la lista que representa.
+Como puedes ver, este código cambió el estado interno de `myMutableList` agregando otro número entero. Cuando llamando a la función `add()`, no cambiamos la variable en sí, sino la lista que representa.
 
 Si estás familiarizado con el lenguaje de programación Java, puede que te resulte más fácil pensar en las variables `val` de Kotlin como variables `final` de Java. Son bastante similares: ambas prohíben reasignar un valor a la variable, pero permiten cambiar el estado interno del objeto.
 

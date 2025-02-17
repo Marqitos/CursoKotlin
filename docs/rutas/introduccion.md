@@ -2,11 +2,16 @@
 layout: default
 title: Ruta de estudio - Introducción a Kotlin
 description: Índice de la ruta de estudio - Introducción a Kotlin
+ruta: Introducción a Kotlin
+slug: introduccion
 ---
 
 # Ruta: Introducción a Kotlin
 
 ¡Comienza tu viaje con la programación con Kotlin!
+
+Kotlin es el lenguaje preferido de Google para el desarrollo de aplicaciones para Android.
+
 Descubre cómo trabajar con variables, utilizar controles de flujo y comprender los conceptos esenciales de la programación orientada a objetos.
 
 - [Lista de reproducción en YouTube]
@@ -90,9 +95,13 @@ Descubre cómo trabajar con variables, utilizar controles de flujo y comprender 
 - [ ] Recursos externos
 - [ ] Principios de evolución de Kotlin
 
+### Proyectos
+
+Inicia sesión, y podremos ofrecerte proyectos con los que practicar lo aprendido.
+
 ### Descargas para lectura offline
 
-![Portada Libro: Introducción a Kotlin](/eBook/Introducción.svg)
+<img alt="Portada Libro: Introducción a Kotlin" src="/eBook/Introducción.svg" class="ebook-cover"/>
 
 - [PDF](/eBook/Introducción.pdf)
 - ePub

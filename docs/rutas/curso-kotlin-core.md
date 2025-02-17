@@ -71,7 +71,12 @@ Como hacer programas en Kotlin, y como ejecutar los mismos.
 - [ ] Escribir código, compilar y ejecutar
 - [ ] Términos básicos: JVM, JRE, JDK
 - [ ] Herramientas de compilación
-
+- [ ] Sistemas operativos
+- [ ] Introducción a la línea de comandos
+- [ ] Parámetros y opciones de ejecución
+- [ ] Los archivos JAR
+- [ ] Tipos `nullables`
+- [ ] Evitando NPEs. Seguridad con `null`
 - [ ] ¿Que es la programación orientada a objetos?
 - [ ] Declarando clases
 - [ ] Constructores
@@ -85,15 +90,21 @@ Como hacer programas en Kotlin, y como ejecutar los mismos.
 - [ ] Interfaces
 - [ ] Polimorfismo
 - [ ] Enumerables
+- [ ] Jerarquia de tipos
 - [ ] `imports` y `packages`
 - [ ] Iteradores, expresion `yield`
 - [ ] Entornos de desarrollo: IDEs
+
 - [ ] Documentación
 - [ ] Entornos de ejecución
 - [ ] Introducción al pensamiento computacional
 - [ ] Componentes del pensamiento computacional
 - [ ] Recursos externos
 - [ ] Principios de evolución de Kotlin
+
+### Proyectos
+
+Inicia sesión, y podremos ofrecerte proyectos con los que practicar lo aprendido.
 
 ### Descargas para lectura offline
 

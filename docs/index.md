@@ -16,7 +16,7 @@ Kotlin es un lenguaje de programación moderno a la vez que maduro, diseñado pa
 
 Es conciso, seguro, interoperable con Java y otros lenguajes, y ofrece muchas maneras de reutilizar código entre múltiples plataformas para una programación productiva.
 
-## Como aprender a programar en Kotlin
+### Como aprender a programar en Kotlin
 
 Aquí te ofrecemos unas guías de estudio, para hacer más ameno su aprendizaje.
 
@@ -24,7 +24,7 @@ Pero ten en mente siempre una cosa, la mejor manera de aprender un lenguaje es p
 
 Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprendido, y enlaces a [Retos de programación](https://retosdeprogramacion.com)[^1].
 
-## Rutas de estudio recomendadas
+### Rutas de estudio recomendadas
 
 - [Introducción a Kotlin](/rutas/introduccion)
 - Introduccion a Kotlin para Android
@@ -32,6 +32,11 @@ Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprend
 - Kotlin para Android
 - Kotlin para desarrolladores BackEnd
 - Curso completo de Kotlin
+- Jetpack Compose para desarrolladores Android
+
+### Proyectos
+
+Inicia sesión, y podremos ofrecerte proyectos con los que practicar lo aprendido.
 
 ## Otros recursos
 
