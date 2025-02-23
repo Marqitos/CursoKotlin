@@ -14,7 +14,8 @@ Con lecciones para ir aprendiendo desde 0 hasta profundizar en sus diferentes us
 
 Kotlin es un lenguaje de programación moderno a la vez que maduro, diseñado para hacer más felices a los desarrolladores.
 
-Es conciso, seguro, interoperable con Java y otros lenguajes, y ofrece muchas maneras de reutilizar código entre múltiples plataformas para una programación productiva.
+Es conciso, seguro, interoperable con Java y otros lenguajes,
+y ofrece muchas maneras de reutilizar código entre múltiples plataformas para una programación productiva.
 
 ### Como aprender a programar en Kotlin
 
@@ -36,7 +37,8 @@ Así que tras cada lección habrá unos ejercicios para poner a prueba lo aprend
 
 ### Proyectos
 
-Inicia sesión, y podremos ofrecerte proyectos con los que practicar lo aprendido.
+[Inicia sesión](https://marcospor.to/login?ru=https%3A%2F%2Fcursokotlin.marcospor.to%2F),
+y podremos ofrecerte proyectos con los que practicar lo aprendido.
 
 ## Otros recursos
 
@@ -62,7 +64,7 @@ Y a conocer las herramientas que te ayudarán a programar.
 
 ## Referencias
 
-- [Curso original en Inglés, de JetBrains Academy](https://www.jetbrains.com/academy/)
+- [Curso original en Inglés](https://hyperskill.org/join/7c27da4a6), de [JetBrains Academy](https://www.jetbrains.com/academy/)
 - [Documentación oficial de Kotlin](https://kotlinlang.org/docs/home.html)
 
 [^1]:[Retos de programación](https://retosdeprogramacion.com) es un proyecto de [Brais Moure](https://mouredev.com/brais-moure/), este proyecto no tiene colaboración con el suyo, pero aprecia las aportaciones de Brais Moure a la comunidad.

@@ -119,4 +119,4 @@ Ahora te estás uniendo a una comunidad global de creadores que dan forma al fut
 
 Usa tus nuevos conocimientos para completar este paso inicial de tu emocionante viaje.
 
-[¡Practiquemos!](/lecciones/ejercicio-001)
+[¡Es hora de comprobar lo aprendído!](/lecciones/ejercicio-001)
